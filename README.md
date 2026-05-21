@@ -15,27 +15,17 @@ Interactive Input Parameters
 Users can input key parameters through an intuitive sidebar interface:
 
 Permeability (md)
-
 Viscosity (cp)
-
 Flowrate (STB/day)
-
 Outer Radius of Reservoir (ft)
-
 Wellbore Radius (ft)
-
 Pressure at the Boundary of Reservoir (psi)
-
 Formation Volume Factor (bbl/stb)
-
 Net Pay Thickness of Reservoir (feet)
 
 **Technology Stack**
 
 Programming Language: Python
-
 Web Framework: Streamlit
-
 Data Visualization: Matplotlib
-
 Numerical Computation: NumPy
